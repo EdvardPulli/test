@@ -12,7 +12,8 @@ src: url('../fonts/Aller_Rg.ttf');
 
 @font-face
 {
-font-family: aller_lt;
+font-family:
+Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif
 src: url('../fonts/Aller_Lt.ttf');
 }
 
@@ -96,7 +97,7 @@ h4 {
 footer {
 background-image:url('../images/black.png');
 padding: 20px;
-color: white;
+color: black;
 }
 
 .col-sm-4 img {
